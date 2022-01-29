@@ -5,5 +5,9 @@
     <title>Project 1: Resume</title>
   </head>
   <body>
+    <h1>Philip Le's Resume</h1>
+	<h2>Contact Information</h2>
+	<p><b>Email:</b> lephil505006@gmail.com</p>
+	<p><b>Linkedin:</b> linkedin.com/in/lephilip</p>
   </body>
 </html>
