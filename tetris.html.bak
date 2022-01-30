@@ -5,10 +5,6 @@
     <title>Project 1: Evolution of Tetris</title>
   </head>
   <body>
-  <h1>History of Tetris</h1>
-  <p>The history of Tetris scales back all the way to 1984, where a Russin scientist named Alexey Pajitnov developed the very first Tetris that most of all know.</p>
-  <img src="./Resources/Classic Tetris.jpg" alt="Classic Tetris">
-  <p><i>Image of NES Tetris</i></p>
 	  <footer>
 	    <p>Created By Philip Le</h>
 		<address>
