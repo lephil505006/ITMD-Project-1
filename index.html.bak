@@ -39,7 +39,7 @@
 	</ul>
 	<h2>Skills</h2>
 	<ul>
-	  <li>Experience in C++, C#, Java, MySQL, and soon to be HTML</li>
+	  <li>Experience in C++, C#, Java, MySQL, and soon to be HTML</li
 	  <li>Experience with Adobe Photoshop and Adobe Illustrator</li>
 	  <li>Microsoft Office Programs (Word, Excel, PowerPoint</li>
 	  <li>Bilingual (Vietnamese and English)</li>
@@ -69,7 +69,7 @@
 	  <li>Aug 2017 to Present</li>
 	</ul>
 	  <footer>
-	    <p>Created By Philip Le</p>
+	    <p>Created By Philip Le</h>
 		<address>
 		  <p><a href="mailto:ple2@hawk.iit.edu">ple2@hawk.iit.edu</a></p>
 		</address>
